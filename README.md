@@ -1,6 +1,6 @@
 # Hi there, I'm Dukes Davis. 👋
 
-![Banner](https://yourdomain.com/path-to-your-banner-image.png)
+<!-- ![Banner](https://yourdomain.com/path-to-your-banner-image.png) -->
 
 I'm a passionate developer, designer, and lifelong learner. I love building creative solutions and exploring new technologies. When I'm not coding, you can find me exploring design, photography, or enjoying a cup of coffee at my local café.
 
@@ -13,7 +13,8 @@ I'm a passionate developer, designer, and lifelong learner. I love building crea
 - 👯 I’m looking to collaborate on **open-source projects**
 - 🤝 I’m open to mentoring and learning from others
 - 💬 Ask me about **JavaScript, React, Figma, or your favorite tech stack**
-- 📫 How to reach me: davisdukes18@gmail.com. (mailto:your.email@example.com)
+- 📫 How to reach me: davisdukes18@gmail.com.
+  (mailto:davisdukes18@gmail.com)
 - ⚡ Fun fact: **I once built an app that tracks my daily coffee intake!**
 
 ---
@@ -43,10 +44,10 @@ I'm a passionate developer, designer, and lifelong learner. I love building crea
 <!-- BLOG-POST-LIST:START 
 - [Post Title Example](https://yourblog.com/post-title)
 - [Another Great Post](https://yourblog.com/another-post)
-<!-- BLOG-POST-LIST:END -->
+
 
 *(I write articles on tech, design, and my learning journey. Check out my blog for more!)*
-
+<!-- BLOG-POST-LIST:END -->
 ---
 
 ## 💬 Connect with Me
@@ -60,7 +61,7 @@ I'm a passionate developer, designer, and lifelong learner. I love building crea
 ## 🎉 Fun & Random
 
 - Random Quote: *"Code is like humor. When you have to explain it, it’s bad."*
-- Favourite Coding Song: [Playlist on Spotify](https://open.spotify.com/playlist/yourplaylistid)
+- Favourite Coding Song: [Playlist on Spotify](https://open.spotify.com/playlist/2waeQbRQF4aViaClrLH0Fp?si=d4104a2ab2914961)
 - Daily Life in Emojis: ☕️💻🎧🚴‍♂️
 
 ---
@@ -69,4 +70,4 @@ I'm a passionate developer, designer, and lifelong learner. I love building crea
 
 ---
 
-_This README was last updated on **[Insert Date]**_
+_This README was last updated on **[08/04/2025]**_
