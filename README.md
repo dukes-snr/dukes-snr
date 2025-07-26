@@ -31,7 +31,7 @@ I'm a passionate developer, designer, and lifelong learner. I love building crea
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dukes-snr&show_icons=true&theme=radical" alt="Your GitHub Stats" />
@@ -41,7 +41,7 @@ I'm a passionate developer, designer, and lifelong learner. I love building crea
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START 
+ BLOG-POST-LIST:START 
 - [Post Title Example](https://yourblog.com/post-title)
 - [Another Great Post](https://yourblog.com/another-post)
 
@@ -52,9 +52,9 @@ I'm a passionate developer, designer, and lifelong learner. I love building crea
 
 ## 💬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/davis-dukes-a76ba1238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)]([https://yourportfolio.com](https://dukes-portfolio-ten.vercel.app/))
 
 ---
 
@@ -70,4 +70,4 @@ I'm a passionate developer, designer, and lifelong learner. I love building crea
 
 ---
 
-_This README was last updated on **[08/04/2025]**_
+_This README was last updated on **[26/07/2025]**_
